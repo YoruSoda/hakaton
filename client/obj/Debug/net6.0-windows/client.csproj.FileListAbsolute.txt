@@ -1,0 +1,69 @@
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\client.exe
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\client.deps.json
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\client.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\library.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\bin\Debug\net6.0-windows\library.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.csproj.AssemblyReference.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.Form1.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.Form2.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.Form3.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.csproj.CopyComplete
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\refint\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\ref\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var\client\obj\Debug\net6.0-windows\client.Form4.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.exe
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.deps.json
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\library.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\library.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.AssemblyReference.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form1.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form2.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form3.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form4.resources
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.CopyComplete
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\refint\client.dll
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.pdb
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+C:\Users\mzhyn\OneDrive\Рабочий стол\вордовские штучки\вика лаба\тимп\5 вариант\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\ref\client.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.exe
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.deps.json
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\ref\client.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\client.pdb
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\library.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\bin\Debug\net6.0-windows\library.pdb
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form1.resources
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form2.resources
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form3.resources
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.Form4.resources
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.csproj.CopyComplete
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\ref\client.dll
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.pdb
+C:\Users\User\Desktop\Маша\5_variant\5 var 2 lab\5 var\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
